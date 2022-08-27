@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oshan Udumullaarachchi</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udumulla97" alt="udumulla97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OshanUdumulla" alt="OshanUdumulla" /></a> </p>
 
 
 <p align="left">
